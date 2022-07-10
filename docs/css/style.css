@@ -8333,7 +8333,7 @@ h1, h2, h3, h4, h5,
               margin-right: -250px; } }
           @media (max-width: 991.98px) {
             .owl-carousel.home-slider .slider-item .slider-text .text {
-              background: rgba(255, 255, 255, 0.3);
+              background: rgba(255, 255, 255, 0.75);
               padding: 2em; } }
         .owl-carousel.home-slider .slider-item .slider-text h1 {
           font-size: 60px;
